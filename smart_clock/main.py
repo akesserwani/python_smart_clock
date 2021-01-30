@@ -9,14 +9,15 @@ import re
 
 
 global main_root
-main_root = '/Users/alikesserwani/Desktop/projects/smart_clock/'
+#Enter path to your folder here
+main_root = '#'
 
 
 root = Tk()
 root.geometry("800x480")
 root.resizable(width=False, height=False)
-#root.config(cursor="none")
-#root.overrideredirect(True) 
+root.config(cursor="none")
+root.overrideredirect(True) 
 canvas = Canvas(root, height = 680, width = 1200, highlightthickness = 0)
 canvas.pack()
 pygame.init()
