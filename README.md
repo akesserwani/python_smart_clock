@@ -1,9 +1,6 @@
-#Touchscreen smart clock coded purely with Tkinter Python 
+#Raspberry Pi Touchscreen Smart Clock - Built with Tkinter & Python 2.7
+Created by Ali Kesserwani
 
-#Created by Ali Kesserwani
-
-Thank you for checking out my project
-This smartclock runs on Tkinter - coded with Python 2.7
 
 #Installation
 1. Download files 
