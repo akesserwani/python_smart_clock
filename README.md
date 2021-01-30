@@ -1,5 +1,5 @@
 #Raspberry Pi Touchscreen Smart Clock - Built with Tkinter & Python 2.7
-Created by Ali Kesserwani
+ - Created by Ali Kesserwani
 
 
 #Installation
