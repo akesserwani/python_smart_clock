@@ -1,7 +1,7 @@
 #Raspberry Pi Touchscreen Smart Clock - Built with Tkinter & Python 2.7
  - Created by Ali Kesserwani
 
-![Image](https://github.com/akesserwani/python_smart_clock/blob/master/cover_image.png?raw=true)
+![Image](https://github.com/akesserwani/python_smart_clock/blob/master/cover_image.png)
 
 #Requirements
 1. At least Raspberry Pi 2 Model B
